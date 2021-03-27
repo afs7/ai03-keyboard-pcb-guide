@@ -726,26 +726,26 @@ Wire Wire Line
 	6150 2100 6150 2750
 Wire Wire Line
 	6850 2100 6850 2750
-Text GLabel 2850 1450 2    50   Input ~ 0
-COL2
 Text GLabel 2850 1550 2    50   Input ~ 0
-COL1
-Text GLabel 2850 1650 2    50   Input ~ 0
-COL0
-Text GLabel 2850 2950 2    50   Input ~ 0
 ROW0
-Text GLabel 2850 3050 2    50   Input ~ 0
+Text GLabel 2850 1650 2    50   Input ~ 0
 ROW1
 Text GLabel 2850 1750 2    50   Input ~ 0
 ROW2
 Wire Wire Line
-	2850 1450 2750 1450
-Wire Wire Line
 	2850 1550 2750 1550
 Wire Wire Line
 	2850 1650 2750 1650
+Text GLabel 2850 3050 2    50   Input ~ 0
+COL2
+Text GLabel 2850 2950 2    50   Input ~ 0
+COL1
+Text GLabel 2850 2750 2    50   Input ~ 0
+COL0
 Wire Wire Line
 	2850 1750 2750 1750
+Wire Wire Line
+	2850 2750 2750 2750
 Wire Wire Line
 	2850 2950 2750 2950
 Wire Wire Line
